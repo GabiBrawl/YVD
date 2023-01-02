@@ -1,0 +1,24 @@
+                       -Changelog for YVD-
+
+________________________________V1_______________________________ xx/xx/2018 - xx/xx/2021
+* Initial release. Not much info about it.
+
+________________________________V3_______________________________ 27/12/2022
+* Creation of the changelog file
+* Publication of the script in GitHub
+* Removed stupid features I added when I was younger, like weather... Why would you want to see the weather, in a youtube downloading script broo xD
+* Redesigned the whole "UI". Now synced with SPOTYdl's UI.
+    * Better help menu
+    * Consistency with spaces, text and inputs
+    * Titles in all menus
+    * Changed the color, for better contrast and readability
+* Added video quality options
+    * Added mp3 & mp4 options
+        * Downloads will be organized inside the Downloads folder, inside mp3 & mp4 folders, respectively.
+* Organized all temporary & non temporary files nicely in your AppData folders.
+* Added automated systems:
+    * to check for updates
+    * to download all needed tools, if missing.
+* Created history file. Available in the AppData dir.
+    * files organized by download date, and time downloaded.
+* The video link input will now check wether it's a valid youtube link or not.
